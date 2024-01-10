@@ -1,6 +1,6 @@
 # 🐍 Mini projet : Python (Semestre 1)
 <br>
-<img src="https://github.com/rqlcs/UTEC77/blob/main/TC2/Tkinter/assets/python.svg.png" width="120" height="120">
+<img src="/assets/python.svg.png" width="120" height="120">
 <br>
 
 **Lucas REQUENA**<br>
